@@ -34,4 +34,39 @@
 | 2-20 | review | project   | project |
 | 2-27 | ch 9   | review    | project |
 
+---
+
+# Notes:
+
+---
+## linux commands
+* cd <directory name> - change directory
+* ls - list files in current working directory
+* pwd - print working directory
+* git clone <repo link> - clone directory
+* git commit - commit changes locally
+* git push - push local changes to remote repository
+* git pull - retrieve remote changes to local
+* git status - show files that have changed
+* git diff - show line-by-line changes in files
+* git add - add files to version controll
+
+## Ch 1 
+* computer program (software) - a structured combination of data and instructions used to operate a computer to produce a spcific result.
+* Programming - the process of writing a computer program in a language the computer can respond to and other programmers can understand.
+* programming language - The set of instructions, data, and rules used to construct a program.
+	* high-level language - Languages using instructions resembling written languages, such as English e.g. (Visual Basic, C, C++, and Java).
+		* The final program can written in these languages can be run on a variety of computer types (IBM, Apple, Hewlett-Packard)
+	* low-level languages - tied to one type of computer processor/architecture. Can be faster than higher level languages.
+
+	* procedural language - Instructions are used to create self-contained units, referred to as procedures. These procedures work by:
+		1. accept data as input.
+		2. transform the data.
+		3. output data for next procedure to use.
+	* object-oriented language - programs exist as object which contain attributes and methods to act on.
+
+* Algorithm - step-by-step sequence of instructions that describe how to perform a computation.
+* Pseudocode - using english words to describe the steps in an algorithm
+* formula - using mathematical equations to describe an algorithm
+* flowchart - using a diagram with symbols to describe an algorithm
 
