@@ -30,11 +30,25 @@ using namespace std;
 int main(){
 	// declare variables
 
+	int hw1, hw2, hw3, hw4, hw5, hw6, hw7, hw8, hw9, hw10;
+	int exam1, exam2;
+	int finalexam;
+	float final;
+
 	// take input
+	cin >> hw1 >> hw2 >> hw3 >> hw4 >> hw5 >> hw6 >> hw7 >> hw8 >> hw9 >> hw10;
+    cin >> exam1 >> exam2;
+	cin >> finalexam;
 
 	// do computation
+	final = (hw1 + hw2 + hw3 + hw4 + hw5 +
+    hw6 + hw7 + hw8 + hw9 + hw10 +
+    exam1 + exam2 + finalexam)/(300.0) * (100.0);
+
 
 	// print output
+	cout << final << "%\n";
+
 	return 0;
 }
 
