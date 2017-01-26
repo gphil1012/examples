@@ -22,8 +22,8 @@
 ## January
 | date | Monday | Wednesday | Friday  |
 | ---- | ------ | --------- | ------  |
-| 1-16 | ch 1-4 | review    | project |
-| 1-23 | ch 5   | review    | project |
+| 1-16 | ch 1-4 | review    | Miss    |
+| 1-23 | Miss   | ch 5      | Review  |
 | 1-30 | ch 6   | review    | project |
 
 ## Feburary
