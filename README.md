@@ -22,9 +22,9 @@
 ## January
 | date | Monday | Wednesday | Friday  |
 | ---- | ------ | --------- | ------  |
-| 1-16 | ~~ch 1-4~~ | ~~review~~    | ~~Miss~~    |
-| 1-23 | ~~Miss~~   | ~~ch 5~~      | ~~Review~~  |
-| 1-30 | ~~Miss~~   | ch 6      | project |
+| 1-16 | ~~ch 1-4~~ | ~~review~~    | ~~Miss~~             |
+| 1-23 | ~~Miss~~   | ~~ch 5~~      | ~~Review~~           |
+| 1-30 | ~~Miss~~   | ~~ch 6~~      | Passing by reference |
 
 ## Feburary
 | date | Monday | Wednesday | Friday  |
