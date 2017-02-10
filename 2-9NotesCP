@@ -1,0 +1,78 @@
+Number Systems
+
+a bit is the smallest unit of information
+	a 1 or 0 / true or false
+
+byte - 8 bits (varies based on architecture)
+
+binary    decimal hexadecimal
+00000000  - 0 -   0x00
+
+
+
+1
+2
+4
+8
+
+1000
+1234
+1000 + 200 + 30 + 4
+
+0b1010 = 8 + 0 + 2 + 0 = 10
+
+10 ^ 0 1
+10 ^ 1 10
+10 ^ 2 100
+
+2 ^ 0 1
+2 ^ 1 2
+2 ^ 2 4
+2 ^ 3 8
+Nibble - 4 bits
+---------------------
+binary| decimal|  hex
+0000  | 00     | 0x00
+0001  | 01     | 0x01
+0010  | 02     | 0x02
+0011  | 03     | 0x03
+0100  | 04     | 0x04
+0101  | 05     | 0x05
+0110  | 06     | 0x06
+0111  | 07     | 0x07
+1000  | 08     | 0x08
+1001  | 09     | 0x09
+1010  | 10     | 0x0A
+1011  | 11     | 0x0B
+1100  | 12     | 0x0C
+1101  | 13     | 0x0D
+1110  | 14     | 0x0E
+1111  | 15     | 0x0F
+0000  | 16     | 0x10
+
+
+16 bit int - 0000|0000|0000|0000
+32 bit int - 0000|0000|0000|0000|0000|0000|0000|0000
+
+base 2  - 01
+base 8  - 01234567
+base 10 - 0123456789
+base 16 - 0123456789abcdef
+
+
+0xf4[0x3f]  // copy of a
+0xf3[0x3f]  // location of variable a
+0xf2[0x26]
+
+...
+
+0x04[0x00]
+0x03[0x00]
+0x02[0x00]
+0x01[0x00]
+0x00[0x00]
+
+int func(int a) // 0xf4 copy of a
+
+// call by reference
+int func(int& a) // [0xf3] address of a
