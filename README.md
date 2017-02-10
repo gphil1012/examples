@@ -24,12 +24,12 @@
 | ---- | ------ | --------- | ------  |
 | 1-16 | ~~ch 1-4~~ | ~~review~~    | ~~Miss~~             |
 | 1-23 | ~~Miss~~   | ~~ch 5~~      | ~~Review~~           |
-| 1-30 | ~~Miss~~   | ~~ch 6~~      | Passing by reference |
+| 1-30 | ~~Miss~~   | ~~ch 6~~      | ~~Miss~~             |
 
 ## Feburary
 | date | Monday | Wednesday | Friday  |
 | ---- | ------ | --------- | ------  |
-| 2-6  | ch 7   | review    | project |
+| 2-6  | Pass By Reference   | Ch 7    | project |
 | 2-13 | ch 8   | ch 8      | review  |
 | 2-20 | review | project   | project |
 | 2-27 | ch 9   | review    | project |
